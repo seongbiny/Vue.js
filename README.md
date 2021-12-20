@@ -1,7 +1,7 @@
 # README
 
 * VUE 프로젝트 환경 설정
-  * 개발도구(Visual studio)
+  * 개발도구(Visual Studio Code)
   * Node.js
   * NPM
 * Vue 프로젝트 생성하기
