@@ -40,3 +40,8 @@ vue 는 양방향 바인딩을 지원한다.
 * input type=text 데이터 바인딩
 * input type=number 데이터 바인딩
 * textarea 데이터 바인딩
+
+
+
+button disabled 속성 많이 씀
+
